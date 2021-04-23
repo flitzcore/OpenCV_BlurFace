@@ -3,7 +3,8 @@
 Hari pertama, saya membaca hingga bagian threshold. Beberapa penjelasan seperti cara perhitungan lumayan sulit jadi saya coba search di youtube
 ### Hari selasa
 Hari kedua, saya pikir akan lebih baik kalau saya memulai proyek, supaya lebih mudah mengerti. Saya membaca hingga contours, namun ada beberapa logika kerja yang masih kurang dimengerti
-### Hari Rabu
+### Hari rabu
+Saya memutuskan untuk membuat proyek face blur. Saya mencari cara kerjanya di youtube, setelah saya mengikuti cara kerjanya, ternyata terjadi kesalahan detect sehingga background saya juga kena blur. Saya melanjutkan mempelajari
 
 # OpenCV_BlurFace
 First of all, i set everything that i will need and take picture from my webcam
