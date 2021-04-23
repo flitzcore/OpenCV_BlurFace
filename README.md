@@ -1,9 +1,9 @@
-#Dokumentasi
-###Hari senin
+# Dokumentasi
+### Hari senin
 Hari pertama, saya membaca hingga bagian threshold. Beberapa penjelasan seperti cara perhitungan lumayan sulit jadi saya coba search di youtube
-###Hari selasa
+### Hari selasa
 Hari kedua, saya pikir akan lebih baik kalau saya memulai proyek, supaya lebih mudah mengerti. Saya membaca hingga contours, namun ada beberapa logika kerja yang masih kurang dimengerti
-###Hari Rabu
+### Hari Rabu
 
 # OpenCV_BlurFace
 First of all, i set everything that i will need and take picture from my webcam
