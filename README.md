@@ -4,7 +4,11 @@ Hari pertama, saya membaca hingga bagian threshold. Beberapa penjelasan seperti 
 ### Hari selasa
 Hari kedua, saya pikir akan lebih baik kalau saya memulai proyek, supaya lebih mudah mengerti. Saya membaca hingga contours, namun ada beberapa logika kerja yang masih kurang dimengerti
 ### Hari rabu
-Saya memutuskan untuk membuat proyek face blur. Saya mencari cara kerjanya di youtube, setelah saya mengikuti cara kerjanya, ternyata terjadi kesalahan detect sehingga background saya juga kena blur. Saya melanjutkan mempelajari
+Saya memutuskan untuk membuat proyek face blur. Saya mencari cara kerjanya di youtube, setelah saya mengikuti cara kerjanya, ternyata terjadi kesalahan detect sehingga background saya juga kena blur. Saya mempelajari ulang mengenai blur,serta mencari cara untuk meningkatkan kontras pada gambar, untuk meningkatkan kualitas seleksi. Saya sempat mencoba metode threshold tapi hasilnya justru lebih tidak akurat.
+### Hari kamis
+Mendekati pengumpulan, saya memutuskan untuk menerapkan metode kontras pada projek saya, dan melanjutkan pembelajaran di tutorial pada contour karena masih banyak bagian yang kurang saya mengerti.
+### Hari jumat
+Hari terakhir, saya menyelesaikan materi, namun tetap ada beberapa bagian yang masih belum saya kuasai. Setelah itu, saya menyelesaikan proyek saya, dan membuat dokumentasi.
 
 # OpenCV_BlurFace
 First of all, i set everything that i will need and take picture from my webcam
